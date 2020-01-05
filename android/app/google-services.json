@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832199091017",
+    "firebase_url": "https://flutter-realtime-chat-5e114.firebaseio.com",
+    "project_id": "flutter-realtime-chat-5e114",
+    "storage_bucket": "flutter-realtime-chat-5e114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832199091017:android:3eb04fc69d028ec4487098",
+        "android_client_info": {
+          "package_name": "com.klotz.flutter_realtime_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832199091017-4meqplqphm4t3cacsra052f9r87gsdll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.klotz.flutter_realtime_chat",
+            "certificate_hash": "3a68cec420048243f9733539dcb8ba4ea102962c"
+          }
+        },
+        {
+          "client_id": "832199091017-e5dj2drbtbdm0hs0vtf4m98ssnne4v0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8MZLZnQ1GLlTsn9pGdEjwr04o3f-FhrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832199091017-e5dj2drbtbdm0hs0vtf4m98ssnne4v0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
